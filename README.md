@@ -15,8 +15,8 @@ This is my first game-jam submission ever. Even though it falls short in many ar
 **Note:** Make sure to disable browser extensions like Vimium, so your keybindings don't get remapped. Click the button above to play!
 
 Music used:
-Free Music - Adhesive Wombat - Nightshade
-TeknoAXE's Royalty Free Music - Revenge of the Atari Overlords
+- Free Music - Adhesive Wombat - Nightshade
+- TeknoAXE's Royalty Free Music - Revenge of the Atari Overlords
 
 # Compilation instructions
 ## Dependencies
