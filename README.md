@@ -19,6 +19,9 @@ Free Music - Adhesive Wombat - Nightshade
 TeknoAXE's Royalty Free Music - Revenge of the Atari Overlords
 
 # Compilation instructions
+## Dependencies
+Make sure you have OpenJDK 17 or higher installed.
+
 ## Debug
 ```console
 ./gradlew gmtk-html:superDev
